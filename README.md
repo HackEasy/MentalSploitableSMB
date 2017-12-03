@@ -1,0 +1,2 @@
+# MentalSploitableSMB
+SMB Ruby AutoExploit
